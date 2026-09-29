@@ -1,0 +1,7 @@
+path: C:/Users/tymsh/Desktop/YüzTanıma/datasets/wider_face
+
+train: images/train
+val: images/val
+
+nc: 1
+names: ["face"]

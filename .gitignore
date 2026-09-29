@@ -1,0 +1,25 @@
+# Data outputs
+attendance.csv
+*.pkl
+
+# Model weights
+*.pt
+
+# Python cache & environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/
+.idea/
+# users img
+datasets/
+face_dataset/
+faces_db/
